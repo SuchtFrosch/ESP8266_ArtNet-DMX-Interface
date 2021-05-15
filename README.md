@@ -21,5 +21,10 @@ RGB-LED
         6 - DMX-Socket 3
         7 - DMX-Socket 2
         8 - ESP8266 VCC 5V
+        
 ## Powersource 
 Powersource is the micro-USB port of the ESP8266.
+
+## Informations
+This projact based of the project of Robert Oostenveld: https://www.robertoostenveld.nl/art-net-to-dmx512-with-esp8266/
+I have developed it for my needs.
