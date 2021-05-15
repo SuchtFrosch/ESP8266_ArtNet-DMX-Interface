@@ -22,4 +22,5 @@ SN751768P:
         7 - DMX-Socket 2
         8 - ESP8266 VCC 5V
 
-## Powersource over the micro-USB port of the ESP8266.
+## Powersource 
+Powersource is the micro-USB port of the ESP8266.
