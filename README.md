@@ -1,8 +1,6 @@
 # ESP8266_ArtNet-DMX-Interface
 Receiv with a ESP8266 ArtNet and send DMX.
 
-This project Receiv with a ESP8266 ArtNet Packages and send DMX Signals.
-
 ## Material
 ESP8266 D1 Mini
 SN751768P
