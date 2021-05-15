@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Settings | ArtNet DMX Interface</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=690" />
+<link href="/style.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<script language="javascript" type="text/javascript" src="jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<h1>Settings</h1>
+<form id="settings-form" method="post" action="json">
+    <div class="field">
+        <label for="name">universe:</label>
+        <input type="text" id="universe" name="universe" value="?" required>
+    </div>
+    <div class="field">
+        <label for="name">channels:</label>
+        <input type="text" id="channels" name="channels" value="?" required>
+    </div>
+    <div class="field">
+        <label for="name">delay:</label>
+        <input type="text" id="delay" name="delay" value="?" required>
+    </div>
+    <br id="absatz">
+    <div class="field">
+        <button type="submit">Send</button>
+    </div>
+</form>
+<br>
+<a href="/index">index</a>
+<script language="javascript" type="text/javascript" src="settings.js"></script>
+</body>
+</html>
