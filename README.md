@@ -8,11 +8,11 @@ DMX-Socket
 RGB-LED
 
 ## Shematik
-RGB-LED:
+**RGB-LED:**
         R - ESP8266 D2
         G - ESP8266 D1
         B - ESP8266 D0
-SN751768P:
+**SN751768P:**
         1 - ESP8266 D4
         2 - ESP8266 GND
         3 - ESP8266 VCC 5V
